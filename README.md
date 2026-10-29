@@ -714,12 +714,6 @@ Edit `_build_system_prompt()` in `app/chatbot.py` to customize bot behavior.
 
 ---
 
-## 📄 License
-
-This project is created for educational and demonstration purposes.
-
----
-
 ## 🙋 Support
 
 For issues or questions:
