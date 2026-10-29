@@ -1,0 +1,401 @@
+{
+  "business_info": {
+    "name": "TechFlow Solutions",
+    "description": "A leading provider of cloud-based productivity and collaboration software",
+    "founded": "2018",
+    "headquarters": "San Francisco, CA",
+    "website": "https://www.techflow.com",
+    "support_email": "support@techflow.com",
+    "support_phone": "+1-800-TECHFLOW"
+  },
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "General",
+      "question": "What is TechFlow Solutions?",
+      "answer": "TechFlow Solutions is a cloud-based productivity platform that helps teams collaborate, manage projects, and streamline workflows. We provide tools for project management, team communication, file sharing, and task automation. Our platform serves businesses of all sizes, from startups to enterprise organizations."
+    },
+    {
+      "id": "faq_002",
+      "category": "General",
+      "question": "Is TechFlow Solutions suitable for my business size?",
+      "answer": "Yes! TechFlow Solutions is designed to scale with your business. We offer plans for startups, small businesses, and enterprises. Our platform can grow from supporting 5 team members to thousands. We recommend starting with our Starter plan and upgrading as your needs grow."
+    },
+    {
+      "id": "faq_003",
+      "category": "Pricing",
+      "question": "What pricing plans does TechFlow offer?",
+      "answer": "We offer four pricing tiers: (1) Free Plan - Up to 3 users, 5GB storage, basic features. (2) Starter Plan - $29/month for up to 10 users, 100GB storage, advanced features. (3) Professional Plan - $99/month for up to 50 users, 1TB storage, integrations and API access. (4) Enterprise Plan - Custom pricing for unlimited users, unlimited storage, dedicated support, and custom features."
+    },
+    {
+      "id": "faq_004",
+      "category": "Pricing",
+      "question": "Can I change my plan anytime?",
+      "answer": "Absolutely! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we prorate charges based on your billing cycle. If you downgrade, you'll have access to the new plan features starting from your next billing cycle. No penalties apply for changes."
+    },
+    {
+      "id": "faq_005",
+      "category": "Account",
+      "question": "How do I create an account with TechFlow?",
+      "answer": "Creating an account is simple: (1) Go to our website https://www.techflow.com/signup. (2) Enter your email address and create a strong password. (3) Verify your email address by clicking the confirmation link. (4) Complete your profile with your name and company information. (5) Start your free trial immediately - no credit card required for the first 14 days."
+    },
+    {
+      "id": "faq_006",
+      "category": "Account",
+      "question": "Do I need a credit card to start the free trial?",
+      "answer": "No, absolutely not! You can start your 14-day free trial with just your email address. We won't ask for payment information until you decide to upgrade to a paid plan. The trial gives you full access to the Starter plan features, so you can evaluate all capabilities before committing."
+    },
+    {
+      "id": "faq_007",
+      "category": "Features",
+      "question": "What are the main features of TechFlow?",
+      "answer": "TechFlow includes: (1) Project Management - Create, assign, and track projects with Kanban boards and Gantt charts. (2) Team Communication - Real-time chat, comments, and notifications. (3) File Management - Secure cloud storage with version control and sharing. (4) Task Automation - Automate workflows with custom rules and triggers. (5) Integrations - Connect with 500+ popular business tools. (6) Analytics - Track productivity metrics and team performance. (7) Mobile Apps - Full functionality on iOS and Android."
+    },
+    {
+      "id": "faq_008",
+      "category": "Features",
+      "question": "Does TechFlow support integrations with other tools?",
+      "answer": "Yes! TechFlow integrates with 500+ popular business applications including Slack, Microsoft Teams, Google Workspace, Jira, Asana, Stripe, Zapier, and many more. With our open API, you can also build custom integrations. Integration features are available on Starter plan and above."
+    },
+    {
+      "id": "faq_009",
+      "category": "Security",
+      "question": "How secure is my data on TechFlow?",
+      "answer": "Security is our top priority. We implement: (1) End-to-end encryption for sensitive data. (2) SSL/TLS encryption for all data in transit. (3) Regular security audits by third-party experts. (4) GDPR and CCPA compliance. (5) SOC 2 Type II certification. (6) Daily automated backups with 30-day retention. (7) Role-based access controls (RBAC). (8) Two-factor authentication (2FA). Your data is stored in secure, redundant data centers."
+    },
+    {
+      "id": "faq_010",
+      "category": "Security",
+      "question": "Is two-factor authentication available?",
+      "answer": "Yes! Two-factor authentication (2FA) is available on all paid plans and can be enabled for free accounts. We support authenticator apps (Google Authenticator, Microsoft Authenticator), SMS codes, and hardware security keys. We recommend enabling 2FA for all accounts, especially for team administrators."
+    },
+    {
+      "id": "faq_011",
+      "category": "Refunds",
+      "question": "What is your refund policy?",
+      "answer": "We offer a 30-day money-back guarantee on all paid subscriptions. If you're not completely satisfied with TechFlow within the first 30 days, contact our support team at support@techflow.com for a full refund. No questions asked. After 30 days, refunds are handled on a case-by-case basis. Contact our support team to discuss your situation."
+    },
+    {
+      "id": "faq_012",
+      "category": "Refunds",
+      "question": "How do I cancel my subscription?",
+      "answer": "You can cancel anytime with no penalties. To cancel: (1) Log in to your account. (2) Go to Settings > Billing. (3) Click 'Cancel Subscription'. (4) Confirm the cancellation. Your access continues until the end of your current billing period. You can reactivate your subscription anytime by logging back in."
+    },
+    {
+      "id": "faq_013",
+      "category": "Support",
+      "question": "What support options are available?",
+      "answer": "We offer multiple support channels: (1) Email Support - support@techflow.com (response within 24 hours for all plans). (2) Live Chat - Available 9 AM - 6 PM EST on business days for Professional and Enterprise plans. (3) Knowledge Base - 500+ articles covering all features. (4) Community Forum - Connect with other TechFlow users. (5) Video Tutorials - Step-by-step guides on YouTube. (6) Phone Support - Available for Enterprise plans. (7) Dedicated Support Manager - For Enterprise customers with 24/7 on-call support."
+    },
+    {
+      "id": "faq_014",
+      "category": "Support",
+      "question": "How do I contact your support team?",
+      "answer": "You can reach our support team through multiple channels: (1) Email: support@techflow.com (available 24/7, typically responds within 24 hours). (2) Phone: +1-800-TECHFLOW (available Monday-Friday, 9 AM - 6 PM EST). (3) Live Chat: Available at techflow.com/chat for Professional and Enterprise plans. (4) Submit a ticket in your account dashboard. We strive to resolve all issues quickly and professionally."
+    },
+    {
+      "id": "faq_015",
+      "category": "OnBoarding",
+      "question": "Does TechFlow provide onboarding assistance?",
+      "answer": "Absolutely! We provide comprehensive onboarding: (1) Automated email tutorials during your first week. (2) Interactive in-app walkthroughs for key features. (3) Scheduling a 1-on-1 onboarding call with our team (available for Professional and above). (4) Detailed documentation and user guides. (5) Training videos on our YouTube channel. (6) Free migration assistance if switching from another platform. Contact support@techflow.com to schedule your onboarding call."
+    },
+    {
+      "id": "faq_016",
+      "category": "Technical",
+      "question": "What are the system requirements for TechFlow?",
+      "answer": "TechFlow is a web-based application, so you just need: (1) A modern web browser (Chrome, Firefox, Safari, Edge). (2) An internet connection (broadband recommended for optimal performance). (3) For mobile: iOS 12+ or Android 8+. (4) Recommended: 100 Mbps internet for smooth real-time collaboration. TechFlow works on Windows, Mac, and Linux."
+    },
+    {
+      "id": "faq_017",
+      "category": "Technical",
+      "question": "Is TechFlow available offline?",
+      "answer": "TechFlow is primarily a cloud-based platform requiring an internet connection for full functionality. However, we offer limited offline capabilities: (1) Mobile apps cache recent data and work partially offline. (2) Syncing occurs automatically when you reconnect to the internet. (3) We're working on expanded offline features for future releases. For business-critical work, we recommend ensuring stable internet connectivity."
+    },
+    {
+      "id": "faq_018",
+      "category": "Data",
+      "question": "Can I export my data from TechFlow?",
+      "answer": "Yes! We provide multiple export options: (1) Export project data as CSV or PDF from any project. (2) Bulk export all data in JSON format. (3) API access to programmatically export data. (4) Data migration assistance when leaving TechFlow. You always own your data and can export it anytime, even after cancellation. Enterprise customers receive priority data export support."
+    },
+    {
+      "id": "faq_019",
+      "category": "Data",
+      "question": "What happens to my data if I delete my account?",
+      "answer": "When you delete your account: (1) Your data is permanently deleted within 30 days. (2) You have 30 days to request a data export before permanent deletion. (3) Backups are retained for 30 days per our retention policy. (4) Deleted accounts cannot be recovered. We recommend exporting your data before deletion."
+    },
+    {
+      "id": "faq_020",
+      "category": "Policies",
+      "question": "What is your acceptable use policy?",
+      "answer": "Users must not: (1) Use TechFlow for illegal activities. (2) Share login credentials or breach security. (3) Attempt to hack or exploit vulnerabilities. (4) Send spam or malicious content. (5) Violate intellectual property rights. (6) Overload systems with automated requests. (7) Reverse-engineer or scrape the platform (except via approved APIs). Violations may result in immediate account suspension. We enforce this policy to protect all users."
+    }
+  ],
+  "services": [
+    {
+      "id": "service_001",
+      "name": "Project Management",
+      "description": "Organize and track projects with multiple view options",
+      "features": [
+        "Kanban boards",
+        "Gantt charts",
+        "Timeline view",
+        "Custom fields",
+        "Dependency tracking",
+        "Progress tracking"
+      ],
+      "available_on_plans": ["Starter", "Professional", "Enterprise"]
+    },
+    {
+      "id": "service_002",
+      "name": "Team Communication",
+      "description": "Real-time collaboration and communication tools",
+      "features": [
+        "Team chat",
+        "Direct messaging",
+        "Comments and threads",
+        "Mentions and notifications",
+        "Video call integration",
+        "Channel organization"
+      ],
+      "available_on_plans": ["Free", "Starter", "Professional", "Enterprise"]
+    },
+    {
+      "id": "service_003",
+      "name": "File Management",
+      "description": "Secure cloud storage and file sharing",
+      "features": [
+        "Cloud storage",
+        "Version control",
+        "File sharing with permissions",
+        "Preview and collaboration",
+        "Backup and recovery",
+        "File encryption"
+      ],
+      "available_on_plans": ["Free", "Starter", "Professional", "Enterprise"]
+    },
+    {
+      "id": "service_004",
+      "name": "Workflow Automation",
+      "description": "Automate repetitive tasks and workflows",
+      "features": [
+        "Custom rules and triggers",
+        "Automated task creation",
+        "Workflow templates",
+        "Integration automation",
+        "Conditional logic",
+        "Action scheduling"
+      ],
+      "available_on_plans": ["Professional", "Enterprise"]
+    },
+    {
+      "id": "service_005",
+      "name": "Analytics & Reporting",
+      "description": "Track productivity and team performance",
+      "features": [
+        "Dashboard analytics",
+        "Performance metrics",
+        "Team productivity reports",
+        "Project completion tracking",
+        "Custom reports",
+        "Data visualization"
+      ],
+      "available_on_plans": ["Professional", "Enterprise"]
+    },
+    {
+      "id": "service_006",
+      "name": "API Access",
+      "description": "Integrate and automate with custom applications",
+      "features": [
+        "REST API",
+        "Webhook support",
+        "Custom integrations",
+        "Data access",
+        "Rate-limited calls",
+        "Documentation and SDKs"
+      ],
+      "available_on_plans": ["Professional", "Enterprise"]
+    },
+    {
+      "id": "service_007",
+      "name": "Premium Support",
+      "description": "Enhanced support with faster response times",
+      "features": [
+        "Priority email support",
+        "Live chat support",
+        "Phone support",
+        "Dedicated account manager",
+        "Custom onboarding",
+        "SLA guarantees"
+      ],
+      "available_on_plans": ["Professional", "Enterprise"]
+    },
+    {
+      "id": "service_008",
+      "name": "Enterprise Features",
+      "description": "Advanced features for large organizations",
+      "features": [
+        "SSO (Single Sign-On)",
+        "Advanced security controls",
+        "Audit logs",
+        "Custom branding",
+        "Unlimited storage",
+        "Advanced user management"
+      ],
+      "available_on_plans": ["Enterprise"]
+    }
+  ],
+  "pricing_tiers": [
+    {
+      "id": "plan_001",
+      "name": "Free",
+      "price": "$0",
+      "billing_period": "forever",
+      "users": "Up to 3",
+      "storage": "5 GB",
+      "support": "Community support",
+      "description": "Perfect for getting started",
+      "features": [
+        "Basic project management",
+        "Team communication",
+        "File sharing (5GB)",
+        "Mobile apps",
+        "Community support"
+      ]
+    },
+    {
+      "id": "plan_002",
+      "name": "Starter",
+      "price": "$29",
+      "billing_period": "/month or $290/year",
+      "users": "Up to 10",
+      "storage": "100 GB",
+      "support": "Email support",
+      "description": "For growing teams",
+      "features": [
+        "All Free features",
+        "Advanced project management",
+        "Workflow automation basics",
+        "100GB storage",
+        "Priority email support",
+        "API basics",
+        "Integrations (100+)"
+      ]
+    },
+    {
+      "id": "plan_003",
+      "name": "Professional",
+      "price": "$99",
+      "billing_period": "/month or $990/year",
+      "users": "Up to 50",
+      "storage": "1 TB",
+      "support": "Email & live chat support",
+      "description": "For established teams",
+      "features": [
+        "All Starter features",
+        "Advanced workflow automation",
+        "Analytics and reporting",
+        "1TB storage",
+        "Live chat support",
+        "Full API access",
+        "Advanced permissions",
+        "Video call integration"
+      ]
+    },
+    {
+      "id": "plan_004",
+      "name": "Enterprise",
+      "price": "Custom",
+      "billing_period": "contact sales",
+      "users": "Unlimited",
+      "storage": "Unlimited",
+      "support": "Dedicated support 24/7",
+      "description": "For large organizations",
+      "features": [
+        "All Professional features",
+        "SSO and advanced security",
+        "Audit logs and compliance",
+        "Unlimited users and storage",
+        "Dedicated account manager",
+        "Custom integration development",
+        "Phone and 24/7 support",
+        "SLA guarantees"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "id": "policy_001",
+      "title": "Terms of Service",
+      "summary": "Our complete terms governing the use of TechFlow",
+      "key_points": [
+        "Users must be 18+ or have parental consent",
+        "Users own their data and TechFlow owns the platform",
+        "Service availability is 99.5% uptime SLA (Enterprise)",
+        "Users must comply with laws and our acceptable use policy",
+        "TechFlow can modify terms with 30-day notice"
+      ]
+    },
+    {
+      "id": "policy_002",
+      "title": "Privacy Policy",
+      "summary": "How we handle and protect user data",
+      "key_points": [
+        "We collect only necessary data for service operation",
+        "We do not sell user data to third parties",
+        "Users can request their data or account deletion",
+        "We comply with GDPR, CCPA, and other regulations",
+        "We use industry-standard encryption and security"
+      ]
+    },
+    {
+      "id": "policy_003",
+      "title": "Acceptable Use Policy",
+      "summary": "Rules for acceptable platform usage",
+      "key_points": [
+        "No illegal activities or content",
+        "No harassment, spam, or malicious activity",
+        "No attempted hacking or security breaches",
+        "No intellectual property violations",
+        "Violations may result in account suspension"
+      ]
+    },
+    {
+      "id": "policy_004",
+      "title": "Data Retention Policy",
+      "summary": "How long we retain user data",
+      "key_points": [
+        "Active accounts retain data indefinitely",
+        "Deleted accounts: data deleted within 30 days",
+        "Automatic backups retained for 30 days",
+        "Compliance data retained per regulatory requirements",
+        "Users can export data anytime before deletion"
+      ]
+    },
+    {
+      "id": "policy_005",
+      "title": "Service Level Agreement",
+      "summary": "Performance and uptime guarantees (Enterprise only)",
+      "key_points": [
+        "99.5% uptime guarantee",
+        "24/7 monitoring and support",
+        "30-minute response time for critical issues",
+        "Monthly credits for SLA breaches",
+        "Quarterly business reviews"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "support@techflow.com",
+    "phone": "+1-800-TECHFLOW",
+    "website": "https://www.techflow.com",
+    "address": "123 Tech Boulevard, San Francisco, CA 94102",
+    "business_hours": "Monday - Friday, 9:00 AM - 6:00 PM EST",
+    "support_channels": {
+      "email": "support@techflow.com (24/7, response within 24 hours)",
+      "phone": "+1-800-TECHFLOW (Business hours)",
+      "live_chat": "techflow.com/chat (Professional plans, business hours)",
+      "knowledge_base": "https://help.techflow.com",
+      "community_forum": "https://community.techflow.com"
+    }
+  }
+}

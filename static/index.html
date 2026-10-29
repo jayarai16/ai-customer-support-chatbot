@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Customer Support Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <div class="logo-icon">💬</div>
+                    <div class="logo-text">
+                        <h1>TechFlow Support</h1>
+                        <p>AI-Powered Customer Assistant</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="historyBtn" class="icon-btn" title="View History">
+                        <span>📋</span>
+                    </button>
+                    <button id="clearBtn" class="icon-btn" title="Clear Chat">
+                        <span>🗑️</span>
+                    </button>
+                    <button id="infoBtn" class="icon-btn" title="About">
+                        <span>ℹ️</span>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <!-- Welcome Message -->
+            <div id="welcomeSection" class="welcome-section">
+                <div class="welcome-content">
+                    <h2>Welcome to TechFlow Support</h2>
+                    <p>How can we help you today?</p>
+                    <div class="suggested-questions">
+                        <p class="suggestion-label">Try asking:</p>
+                        <button class="suggestion-btn" data-question="What pricing plans do you offer?">
+                            💰 What pricing plans do you offer?
+                        </button>
+                        <button class="suggestion-btn" data-question="How secure is my data?">
+                            🔒 How secure is my data?
+                        </button>
+                        <button class="suggestion-btn" data-question="What is your refund policy?">
+                            💳 What is your refund policy?
+                        </button>
+                        <button class="suggestion-btn" data-question="How do I create an account?">
+                            👤 How do I create an account?
+                        </button>
+                        <button class="suggestion-btn" data-question="What features does TechFlow include?">
+                            ⭐ What features does TechFlow include?
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Messages Area -->
+            <div id="messagesContainer" class="messages-container">
+                <!-- Messages will be inserted here -->
+            </div>
+
+            <!-- Typing Indicator -->
+            <div id="typingIndicator" class="typing-indicator" style="display: none;">
+                <div class="message assistant-message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <div class="typing">
+                            <span></span><span></span><span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Input Area -->
+        <footer class="input-footer">
+            <div class="input-area">
+                <form id="chatForm" class="chat-form">
+                    <input
+                        type="text"
+                        id="messageInput"
+                        class="message-input"
+                        placeholder="Type your question here..."
+                        autocomplete="off"
+                    />
+                    <button type="submit" class="send-btn" title="Send message">
+                        <span>📤</span> Send
+                    </button>
+                </form>
+            </div>
+            <div class="footer-info">
+                Session ID: <span id="sessionId" class="session-info">Initializing...</span>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Modal for History -->
+    <div id="historyModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Conversation History</h2>
+                <button class="close-btn" id="closeHistoryBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="historyContent" class="history-content">
+                    <!-- History will be loaded here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="clearHistoryBtn" class="btn btn-danger">Clear History</button>
+                <button id="closeHistoryBtn2" class="btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for About/Info -->
+    <div id="infoModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>About TechFlow</h2>
+                <button class="close-btn" id="closeInfoBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="infoContent" class="info-content">
+                    <!-- Info will be loaded here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="closeInfoBtn2" class="btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toastContainer" class="toast-container"></div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+</html>
